@@ -22,5 +22,7 @@ const App = () => {
 export default App;
 
 const styles = StyleSheet.create({
-  main: {},
+  main: {
+    backgroundColor: 'black',
+  },
 });

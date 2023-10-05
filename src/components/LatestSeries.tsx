@@ -70,6 +70,7 @@ const styles = StyleSheet.create({
   movieName: {
     width: 150,
     height: 35,
-    fontWeight: '500'
+    fontWeight: '500',
+    color: 'white',
   }
 })

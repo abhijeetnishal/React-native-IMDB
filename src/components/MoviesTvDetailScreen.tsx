@@ -4,8 +4,7 @@ import {View} from 'react-native';
 const SeriesDetail = () => {
   return (
     <View>
-      <View></View>
-      <View></View>
+      
     </View>
   );
 };

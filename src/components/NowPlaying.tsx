@@ -67,5 +67,6 @@ const styles = StyleSheet.create({
     width: 150,
     height: 35,
     fontWeight: '500',
+    color: 'white',
   },
 });
